@@ -1,7 +1,12 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Container } from './TransactionsTableStyles';
+import { api } from '../../services/api'
 
 export const TransactionsTable: React.FC = () => {
+  useEffect(() => {
+    api.get('transactions')
+      .then(res => console.log(res.data))
+  })
   return (
     <Container>
       <table>
