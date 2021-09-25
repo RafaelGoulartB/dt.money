@@ -1,10 +1,11 @@
 import React from 'react';
-import styled from 'styled-components'
+import { GlobalStyle } from './styles/global';
 
 const App: React.FC = () => {
   return ( 
     <div>
-      <p>test</p>
+      <GlobalStyle />
+      <h1>Hello World</h1>
     </div>
   );
 }
