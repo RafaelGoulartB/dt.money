@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="src/assets/logo.svg" width="340"/>
+   <img src="public/favicon.png" width="64"/>
 </p>
 
 <p align="center">	
@@ -35,7 +35,7 @@
 <br />
 
 <div align="center">
-  <img src=".github/assets/screenshot-1.png" width="500">
+  <img src=".github/screenshot-1.png" width="680">
 </div>
 
 ---
