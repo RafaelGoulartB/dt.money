@@ -1,46 +1,98 @@
-# Getting Started with Create React App
+<p align="center">
+   <img src="public/favicon.png" width="64"/>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">	
+   <a href="https://www.linkedin.com/in/rafael-goulartb/">
+      <img alt="Rafael Goulart" src="https://img.shields.io/badge/-RafaelGoulartB-33CC95?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
+  <a href="https://github.com/RafaelGoulartB/coinbase-web#readme">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-33CC95.svg" target="_blank" />
+  </a>
+  <a href="https://github.com/RafaelGoulartB/coinbase-web/graphs/commit-activity">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-33CC95.svg" target="_blank" />
+  </a>
+  <a href="https://github.com/RafaelGoulartB/coinbase-web/blob/master/LICENSE">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-33CC95.svg" target="_blank" />
+  </a>
+  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/RafaelGoulartB/coinbase-web?color=33CC95" />
+  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/RafaelGoulartB/coinbase-web?color=33CC95" />
+  <img alt="" src="https://img.shields.io/github/repo-size/RafaelGoulartB/coinbase-web?color=33CC95" />
+</p>
 
-## Available Scripts
+> 🤑 Dt.money project made in ignite bootcamp.
 
-In the project directory, you can run:
+<div align="center">
+  <sub>The Dt.money project. Built with ❤︎ by
+    <a href="https://github.com/RafaelGoulartB">Rafael Goulart</a> and
+    <a href="https://github.com/RafaelGoulartB/dt.money/graphs/contributors">
+      contributors
+    </a>
+  </sub>
+</div>
 
-### `yarn start`
+<br />
+<br />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<div align="center">
+  <img src=".github/screenshot-1.png" width="680">
+</div>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `yarn test`
+# :pushpin: Table of Contents
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* [Demo Website](#eyes-demo-website)
+* [Technologies](#computer-technologies)
+* [Features](#rocket-features)
+* [How to run](#construction_worker-how-to-run)
+* [Found a bug? Missing a specific feature?](#bug-issues)
+* [Contributing](#tada-contributing)
+* [License](#closed_book-license)
 
-### `yarn build`
+# :computer: Technologies
+This project was made using the follow technologies:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* [React.js](https://reactjs.org/docs/getting-started.html)     
+* [Typescript](https://www.typescriptlang.org/)   
+* [Styled Components](https://styled-components.com/)     
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# :rocket: Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- See account balance.
+- Add expenses and incomes to your account.
+  
+# :construction_worker: How to run
+**You need to install [Node.js](https://nodejs.org/en/download/) and [Yarn](https://yarnpkg.com/) first, then:**
+### Install Dependencies
+```bash
+yarn install
+```
+### Run Aplication
+```bash 
+yarn start 
+```
 
-### `yarn eject`
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# :bug: Issues
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Feel free to **file a new issue** with a respective title and description on the the [Dt.Money](https://github.com/RafaelGoulartB/dt.money/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# :tada: Contributing
+First of all, thank you for being interested in helping out, your time is always appreciated in every way. :100:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Here's some tips:
 
-## Learn More
+* Check the [issues page](https://github.com/RafaelGoulartB/dt.money/issues) for already opened issues (or maybe even closed ones) that might already address your question/bug/feature request.
+* Feature requests are welcomed! Provide some details on why it would be helpful for you and others, explain how you're using bull-board and if possible even some screenshots if you are willing to mock something!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Check out the [contributing](./CONTRIBUTING.md) page to see the best places to file issues, start discussions and begin contributing.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# :closed_book: License
+
+Released in 2020.
+This project is under the [MIT license](./LICENSE).
+
+Made with love by [RafaelGoulartB](https://github.com/RafaelGoulartB) 🚀
